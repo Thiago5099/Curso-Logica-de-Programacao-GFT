@@ -1,5 +1,3 @@
-# Curso-L-gica-de-Programa-o-GFT
-
 # Códigos do Curso de Lógica de Programação da GFT
 
 Aqui estão os meus códigos feitos no Curso de Lógica de Programação da GFT feito na plataforma Dio.
